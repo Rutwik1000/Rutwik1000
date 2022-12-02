@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rutwikingale@gmail.com**
 
-- ⚡ Intresting Quote **"The Farther back you can look, the farther forward you can see."**
+- ⚡ Intresting Quote **"The Farther back you can look, the farther forward you can see." - Winston Churchill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
