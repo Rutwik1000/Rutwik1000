@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Rutwik 👋
+![i](https://miro.medium.com/max/875/1*a-HMfeg5w-W02Nrw21iPtg.gif)
 <!--
 **Rutwik1000/Rutwik1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
