@@ -2,7 +2,7 @@
 
 ![git_banner](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)
 
-<img align="right" alt="coding" width="600" src="https://user-images.githubusercontent.com/116753318/205309606-766f62af-7350-4c89-9ffb-564f7d2ce903.gif"/>
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/116753318/205309606-766f62af-7350-4c89-9ffb-564f7d2ce903.gif"/>
 
 
 
