@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Cloud Deployment**
 
 - 📫 How to reach me **rutwikingale@gmail.com**
 
